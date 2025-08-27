@@ -73,7 +73,7 @@ console.log(`Hello, ${hello}!`);
 ### Option 2: Local Development
 ```bash
 # Clone or download the project
-git clone <repository-url>
+git clone https://github.com/notaregularguy/Marcelo.git
 cd marcelo
 
 # Open with a local server (recommended)
