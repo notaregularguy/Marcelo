@@ -2,8 +2,6 @@
 
 A beautiful, modern markdown editor with live preview and syntax highlighting. Built with pure HTML, CSS, and JavaScript.
 
-![Marcelo Screenshot](https://via.placeholder.com/800x400/667eea/ffffff?text=Marcelo+Markdown+Editor)
-
 ## ✨ Features
 
 - **Live Preview** - See your markdown rendered in real-time as you type
